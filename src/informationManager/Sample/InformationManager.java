@@ -28,7 +28,7 @@ public class InformationManager extends PApplet {
 		this.infoFrame.setValue("ccc", test3);
 		this.infoFrame.setValue("ddd");
 		this.infoFrame.setValue("eee");
-		this.infoFrame.setValue("eee");
+		this.infoFrame.setValue("fff");
 	}
 	public void draw()
 	{
